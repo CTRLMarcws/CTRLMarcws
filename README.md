@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Marcos Filipe, a student from São Paulo (:brazil:).
+
+Take a look at my [LinkedIn](https://linkedin.com/in/marcos-filipe) page 😄
 <!--
 **CTRLMarcws/CTRLMarcws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
